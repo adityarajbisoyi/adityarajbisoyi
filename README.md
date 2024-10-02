@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on Software Development, Building Games (Python, C++, Javscript).
 - 📫 Reach me at: bisoyi2k2@gmail.com
   
-- ⚡ Fun fact: Every moment i realized i learned something, i found that it was the first step for something else.
+- ⚡ Fun fact: Whenever i realized i learned something, i found that it was the first step for something else.
 
 
