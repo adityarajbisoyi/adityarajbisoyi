@@ -1,5 +1,3 @@
-# 👋 Hi, I’m Aditya
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI+Architect;Automation+Expert;Software+Engineer;Game+Creator;Cloud+Specialist;BI+Developer" alt="Typing SVG" />
 </p>
