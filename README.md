@@ -19,7 +19,7 @@ I am a passionate developer focused on **Development, Creation, and Optimization
 - 👀 **I’m interested in:** Software Development, System Optimization, and Creative Programming.
 - 🌱 **I’m currently learning:** Advanced Databases, Workflow Automation, and Cloud Deployment strategies.
 - 💞️ **I’m looking to collaborate on:** Software Development and Game Building (Python, C++, and JavaScript).
-- ⚡ **Fun fact:** Whenever I realized I learned something, I found that it was the first step for something else.
+- ⚡ **Fun fact:** Whenever I think i mastered something, I realized that it was the first step for something else.
 
 ---
 
